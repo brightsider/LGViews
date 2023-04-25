@@ -32,3 +32,5 @@
 #import "LGTextField.h"
 #import "LGTextView.h"
 #import "LGRadioButtonsView.h"
+#import "LGTextViewDelegateObject.h"
+#import "LGTextFieldDelegateObject.h"
